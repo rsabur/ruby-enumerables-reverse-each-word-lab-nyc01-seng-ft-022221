@@ -3,6 +3,7 @@ def reverse_each_word(array)
     while array.is_a?(String)
       binding.pry
       w%[array]
+    end
 
   end
 
