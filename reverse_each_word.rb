@@ -1,10 +1,6 @@
 def reverse_each_word(array)
+  w%[array]
   array.each do |array|
-    while array.is_a?(String)
-      binding.pry
-      w%[array]
-    end
-
+    array.reverse 
   end
-
 end
