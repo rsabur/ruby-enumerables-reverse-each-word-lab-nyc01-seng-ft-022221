@@ -7,4 +7,5 @@ def reverse_each_word(sentance)
     rev_sentance << array.reverse!
   end
   rev_sentance.join
+  rev_sentance
 end
