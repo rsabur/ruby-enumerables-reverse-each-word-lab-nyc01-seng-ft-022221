@@ -1,6 +1,6 @@
-def reverse_each_word(array)
+def reverse_each_word(sentance)
 
-  array.each{|array| w%[array]}
+  array.each{|sentance| w%[sentance]}
     array.reverse
   end
 end
