@@ -1,6 +1,6 @@
-%w[sentance]
-def reverse_each_word(sentance)
-  sentance.each do |sentance|
+%w[:key]
+def reverse_each_word(:key)
+  sentance.each do |:key|
     sentance.reverse
   end
 end
